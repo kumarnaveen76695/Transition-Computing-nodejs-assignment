@@ -22,6 +22,8 @@ npm start
 
 # Deployed url is :
 https://transition-computing-nodejs-assignment-2.onrender.com
+# AND 
+https://transition-computing-nodejs-assignment-2.onrender.com/checklist
 
 ![image](https://github.com/user-attachments/assets/b3e1976b-6135-4e5d-a8f6-7cf0214edd61)
 
