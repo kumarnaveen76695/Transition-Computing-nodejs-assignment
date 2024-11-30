@@ -5,7 +5,7 @@ async function fetchApplicationData() {
     "http://qa-gb.api.dynamatix.com:3100/api/applications/getApplicationById/67339ae56d5231c1a2c63639";
   try {
     const response = await axios.get(url);
-    return response.data; // Adjust as needed based on API response format
+    return response.data; 
   } catch (error) {
     console.error("Error fetching data:", error.message);
     return null;
